@@ -1,7 +1,17 @@
-# Hey there
-If you want, you can watch what i'm doing here.
-Sometimes i upload code when i'm bored.
+<h1 align="center">Hello, visitor! 👋</h1>
+<h3 align="center">Here's a coffee ☕!</h3>
+<hr>
+<h4>(🇬🇧/🇩🇪) Contact me on...</4>
+<p> ↳ <a href="mailto:kontakt@juox.de">E-Mail</a></p>
+<p> ↳ <a href="https://discord.com/users/507517299746537472">Discord</a></p>
 
-## Contact information
-✨Discord: Juox#0001<br>
-📑E-Mail: kontakt@juox.de
+<hr>
+<h4>I use...</h4>
+<a href="https://www.python.org/"><img src="https://www.python.org/static/favicon.ico" widht="32" height="32"></a>
+<a href="https://djangoproject.com/"><img src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" widht="32" height="32"></a>
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht="32" height="32"></a>
+<a href="https://kotlinlang.org/"><img src="https://kotlinlang.org/assets/images/apple-touch-icon-144x144.png" widht="32" height="32"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" widht="32" height="32"></a>
+<a href="https://reactjs.org/"><img src="https://reactjs.org/icons/icon-512x512.png" widht="32" height="32"></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="32" height="32"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="32" height="32"></a>
