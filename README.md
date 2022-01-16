@@ -15,3 +15,4 @@
 <a href="https://reactjs.org/"><img src="https://reactjs.org/icons/icon-512x512.png" widht="32" height="32"></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="32" height="32"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="32" height="32"></a>
+<a href="https://tailwindcss.com/""><img src="https://tailwindcss.com/favicons/favicon-32x32.png"></a>
