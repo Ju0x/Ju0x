@@ -12,7 +12,7 @@
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht="32" height="32"></a>
 <a href="https://kotlinlang.org/"><img src="https://kotlinlang.org/assets/images/apple-touch-icon-144x144.png" widht="32" height="32"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" widht="32" height="32"></a>
-<a href="https://reactjs.org/"><img src="https://reactjs.org/icons/icon-512x512.png" widht="32" height="32"></a>
+<a href="https://vuejs.org/"><img src="https://vuejs.org/logo.svg" widht="32" height="32"></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="32" height="32"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="32" height="32"></a>
 <a href="https://tailwindcss.com/""><img src="https://tailwindcss.com/favicons/favicon-32x32.png"></a>
