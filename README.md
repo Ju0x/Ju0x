@@ -2,11 +2,10 @@
 <h3 align="center">Here's a coffee ☕!</h3>
 <hr>
 <h4>(🇬🇧/🇩🇪) Contact me on...</4>
-<p> ↳ <a href="mailto:kontakt@juox.de">E-Mail</a></p>
+<p> ↳ <a href="mailto:julienvh@protonmail.com">E-Mail</a></p>
 <p> ↳ <a href="https://discord.com/users/507517299746537472">Discord</a></p>
 
 <hr>
-<h4>I use...</h4>
 <a href="https://www.python.org/"><img src="https://www.python.org/static/favicon.ico" widht="32" height="32"></a>
 <a href="https://go.dev/"><img src="https://go.dev/images/go-logo-blue.svg" widht="25" height="25"></a>
 <a href="https://djangoproject.com/"><img src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" widht="32" height="32"></a>
