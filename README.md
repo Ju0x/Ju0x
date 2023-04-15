@@ -17,6 +17,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="40px">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/redis.svg" width="40px">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width="40px">
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40px">
+  <img src="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2Fac68e1d9-9887-4e5a-9820-9290d06638de_ionic%2Blogo%2Bwhite%2Bon%2Bblue.png&w=256&q=75" width="36px" height="36px">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg" width="40px">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width="40px">
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="40px">
