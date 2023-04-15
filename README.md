@@ -2,11 +2,7 @@
 <h1 align="center">Hello, visitor! 👋</h1>
 <h3 align="center">Here's a coffee ☕!</h3>
 
-## Contact me
-<p> ↳ <a href="mailto:julienvh@protonmail.com">E-Mail</a></p>
-<p> ↳ <a href="https://discord.com/users/507517299746537472">Discord</a></p>
-
-<div style="display: inline-flex;">
+<div style="display: inline-flex;" align="center">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="40px" height="40px" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width="40px" height="40px" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="40px" height="40px" />
@@ -25,3 +21,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="40px">
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="40px">
 </div>
+
+
+## Contact me
+<p> ↳ <a href="mailto:julienvh@protonmail.com">📨 E-Mail</a></p>
+<p> ↳ <a href="https://discord.com/users/507517299746537472">💬 Discord</a></p>
