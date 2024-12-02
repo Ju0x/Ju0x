@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=golang,python,javascript,typescript,vite,react,tailwind,html,css,git,postgres,mongodb,sqlite,redis,docker,linux,raspberrypi,arduino,selenium,nginx&perline=10">
 <br />
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ju0x.png" alt="Your Image Badge" />
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ju0x.png?)
 
 <h1>Contact:</h1>
 <img src="https://img.shields.io/badge/ju0x-5865F2?logo=discord&logoColor=eeeeee" height="30px">
