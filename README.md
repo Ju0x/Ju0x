@@ -15,6 +15,6 @@ I'm studying computer-science and I'm highly interested in cybersecurity.
 
 If you want to contact me:
 
-<img src="https://img.shields.io/badge/ju0x-5865F2?logo=discord&logoColor=eeeeee" height="30px"> <img src="https://img.shields.io/badge/@ju0x:matrix.org-6600AA?logo=matrix&logoColor=eeeeee" height="30px"> <img src="https://img.shields.io/badge/@julien@norden.social-2200AA?logo=mastodon&logoColor=eeeeee" height="30px">
+<img src="https://img.shields.io/badge/ju0x-5865F2?logo=discord&logoColor=eeeeee" height="30px"> <img src="https://img.shields.io/badge/@ju0x:matrix.org-6600AA?logo=matrix&logoColor=eeeeee" height="30px"> <a href="https://norden.social/@julien"><img src="https://img.shields.io/badge/@julien@norden.social-2200AA?logo=mastodon&logoColor=eeeeee" height="30px"></a>
 
 <hr />
